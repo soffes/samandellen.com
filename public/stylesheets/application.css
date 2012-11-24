@@ -62,21 +62,19 @@ html {
 
 /* --- */
 
-p {
-  text-align: center;
-  padding: 80px 0 10px;
-}
-
 img {
   width: 350px;
+  height: 525px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -263px 0 0 -175px;
 }
 
 @media all and (max-width: 480px){
   img {
     width: 280px;
-  }
-
-  p {
-    padding: 20px 0;
+    height: 420px;
+    margin: -210px 0 0 -140px;
   }
 }
