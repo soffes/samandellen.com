@@ -62,6 +62,10 @@ html {
   height: 100%;
 }*/
 
+span {
+  display: none;
+}
+
 img {
   width: 350px;
   height: 525px;
