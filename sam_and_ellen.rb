@@ -11,7 +11,7 @@ class SamAndEllen < Sinatra::Base
   end
 
   get '/' do
-    @days = (WEDDING_DATE - Date.today).to_i
+    # @days = (WEDDING_DATE - Date.today).to_i
     erb :index
   end
 end
