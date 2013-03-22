@@ -68,11 +68,11 @@ span {
 
 img {
   width: 350px;
-  height: 525px;
+  height: 449px;
   position: absolute;
   top: 50%;
   left: 50%;
-  margin: -263px 0 0 -175px;
+  margin: -225px 0 0 -175px;
 }
 
 @media all and (max-width: 480px){
