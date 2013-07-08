@@ -1,0 +1,11 @@
+// Sizing
+$width: 640px;
+
+// Colors
+$sam-color: #179fb8;
+$ellen-color: #f28a89;
+$link-color: $sam-color;
+$text-color: #333;
+
+// Media Queries
+$iphone-query: "all and (max-width: 480px)"; // Only width, not device width
